@@ -14,9 +14,9 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-64ffda?style=for-the-badge&logo=vercel&logoColor=black)](https://nextjs-portfolio-five-delta-98.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shariq-shahid-offical/)
 [![Twitter/X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shariqshahidoff)
-[![GitHub](https://img.shields.io/badge/GitHub-0a192f?style=for-the-badge&logo=github&logoColor=64ffda)](https://github.com/shariqshahidofficial-coder)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=shariqshahidofficial-coder&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/shariqshahidofficial-coder)
+[![GitHub](https://img.shields.io/badge/GitHub-0a192f?style=for-the-badge&logo=github&logoColor=64ffda)](https://github.com/codewithshariqofficial)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shariq.shahid.official@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=codewithshariqofficial&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/codewithshariqofficial)
 
 </div>
 
@@ -90,8 +90,8 @@ available:   "Open to senior roles, consulting & remote opportunities 💼"
 | &nbsp; | Project | Description | Stack | Links |
 |:---:|:---|:---|:---:|:---:|
 | 🌐 | **Personal Portfolio** | A sleek, animated portfolio showcasing my skills, projects and journey as a full stack developer. | `Next.js` `Tailwind` `Framer Motion` | [![Live](https://img.shields.io/badge/-Live-0a192f?style=flat-square&logo=vercel&logoColor=64ffda)](https://nextjs-portfolio-five-delta-98.vercel.app/) |
-| 🛒 | **[Project Name]** | *(placeholder)* Replace with a real project once ready — impact, scale, or problem solved. | `React` `Node.js` `MongoDB` | [![Repo](https://img.shields.io/badge/-Repo-0a192f?style=flat-square&logo=github&logoColor=64ffda)](https://github.com/shariqshahidofficial-coder) |
-| 🤖 | **[Project Name]** | *(placeholder)* Replace with a real project once ready — impact, scale, or problem solved. | `Next.js` `PostgreSQL` `Prisma` | [![Repo](https://img.shields.io/badge/-Repo-0a192f?style=flat-square&logo=github&logoColor=64ffda)](https://github.com/shariqshahidofficial-coder) |
+| 🛒 | **[Project Name]** | *(placeholder)* Replace with a real project once ready — impact, scale, or problem solved. | `React` `Node.js` `MongoDB` | [![Repo](https://img.shields.io/badge/-Repo-0a192f?style=flat-square&logo=github&logoColor=64ffda)](https://github.com/codewithshariqofficial) |
+| 🤖 | **[Project Name]** | *(placeholder)* Replace with a real project once ready — impact, scale, or problem solved. | `Next.js` `PostgreSQL` `Prisma` | [![Repo](https://img.shields.io/badge/-Repo-0a192f?style=flat-square&logo=github&logoColor=64ffda)](https://github.com/codewithshariqofficial) |
 
 </div>
 
@@ -103,13 +103,13 @@ available:   "Open to senior roles, consulting & remote opportunities 💼"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shariqshahidofficial-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=020c1b&title_color=64ffda&icon_color=a78bfa&text_color=ccd6f6" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=codewithshariqofficial&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=020c1b&title_color=64ffda&icon_color=a78bfa&text_color=ccd6f6" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shariqshahidofficial-coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=020c1b&title_color=64ffda&text_color=ccd6f6" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithshariqofficial&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=020c1b&title_color=64ffda&text_color=ccd6f6" height="180"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=shariqshahidofficial-coder&theme=tokyonight&hide_border=true&background=020c1b&stroke=64ffda&ring=a78bfa&fire=f472b6&currStreakNum=64ffda&sideNums=ccd6f6&currStreakLabel=a78bfa&sideLabels=8892b0&dates=8892b0" width="600"/>
+<img src="https://streak-stats.demolab.com?user=codewithshariqofficial&theme=tokyonight&hide_border=true&background=020c1b&stroke=64ffda&ring=a78bfa&fire=f472b6&currStreakNum=64ffda&sideNums=ccd6f6&currStreakLabel=a78bfa&sideLabels=8892b0&dates=8892b0" width="600"/>
 
 </div>
 
@@ -119,7 +119,7 @@ available:   "Open to senior roles, consulting & remote opportunities 💼"
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=shariqshahidofficial-coder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=codewithshariqofficial&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7)
 
 </div>
 
@@ -129,7 +129,7 @@ available:   "Open to senior roles, consulting & remote opportunities 💼"
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shariqshahidofficial-coder&theme=tokyo-night&hide_border=true&area=true&area_color=64ffda&color=a78bfa&line=64ffda&point=f472b6&bg_color=020c1b)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codewithshariqofficial&theme=tokyo-night&hide_border=true&area=true&area_color=64ffda&color=a78bfa&line=64ffda&point=f472b6&bg_color=020c1b)
 
 </div>
 
@@ -139,7 +139,7 @@ available:   "Open to senior roles, consulting & remote opportunities 💼"
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shariqshahidofficial-coder/shariqshahidofficial-coder/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/codewithshariqofficial/codewithshariqofficial/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -157,7 +157,7 @@ available:   "Open to senior roles, consulting & remote opportunities 💼"
 &nbsp;
 [![Twitter/X](https://img.shields.io/badge/Follow%20on%20X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shariqshahidoff)
 &nbsp;
-[![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shariq.shahid.official@gmail.com)
 
 </div>
 
